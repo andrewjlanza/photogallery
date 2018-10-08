@@ -24,9 +24,21 @@ img {
 }
 
 main {
+  margin: auto;
+  padding: auto;
   display: flex;
-  align-items: center;
+  align-items: column;
 }
 aside {
   padding: 2rem;
+}
+
+a {
+  display: flex;
+  justify-content: center;
+}
+
+figure img {
+  width: 200px;
+  height: auto;
 }

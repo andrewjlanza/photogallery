@@ -1,38 +1,43 @@
 {
-  "teamName": {
-    "team": "Teams",
-    "description": "THESE are Europe's top clubs",
+  "clubs": {
+    "title": "Fútbol Clubs",
+    "description": "These are some of the world's finest footballing organizations",
     "photos": [
       {
-        "title": "Panda Waving",
-        "imageURL": "https://cdn-images-1.medium.com/max/1600/1*i1vVm3EqqDIkyucD0079wg.jpeg",
-        "sourceURL": "https://codeburst.io/pandas-for-data-stuff-code-challenge-7972207a8294"
+        "title": "Fútbol Team",
+        "imageURL": "https://images.unsplash.com/photo-1529929344488-5e812ddb6e2a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=154e25b1bbd4c1b8836e68e5f791fe6b&auto=format&fit=crop&w=1350&q=80",
+        "sourceURL": "https://unsplash.com/photos/GLKM5guF69Y"
       },
       {
-        "title": "Großer Panda im Ocean Park, Hongkong",
-        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/2560px-Grosser_Panda.JPG",
-        "sourceURL": "https://en.wikipedia.org/wiki/Giant_panda"
+        "title": "Real Madrid CF",
+        "imageURL": "https://www.realmadrid.com/img/horizontal_940px/escudo-real-madridbrandinghorizontal.jpg",
+        "sourceURL": "https://www.realmadrid.com/en"
       },
       {
-        "title": "Großer Panda im Ocean Park, Hongkong",
-        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/2560px-Grosser_Panda.JPG",
-        "sourceURL": "https://en.wikipedia.org/wiki/Giant_panda"
+        "title": "FC Barcelona",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png",
+        "sourceURL": "https://en.wikipedia.org/wiki/FC_Barcelona"
       }
     ]
   },
-  "playerName": {
-    "player": "Players",
-    "description": "These are some of the world's most talented footballers",
+  "players": {
+    "title": "Fútbol Players",
+    "description": "These are some of the world's finest footballers",
     "photos": [
       {
-        "title": "Blood Rage, Ram Clan",
-        "imageURL": "https://instagram.ftpf1-1.fna.fbcdn.net/vp/ac13de8676b9e7d7b3a4f1aaf38a9a55/5C3728A2/t51.2885-15/e35/32203464_178578342778306_8009127367152762880_n.jpg",
-        "sourceURL": "https://www.instagram.com/p/BjRKLqYh4gK/?taken-by=ambethia"
+        "title": "Fútbol Player",
+        "imageURL": "https://images.unsplash.com/photo-1517466787929-bc90951d0974?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f810c9a5af3586ad8214baeb2ce10192&auto=format&fit=crop&w=2466&q=80",
+        "sourceURL": "https://unsplash.com/photos/r-krWscXjvQ"
       },
       {
-        "title": "Cormac the Druid, work in progress",
-        "imageURL": "https://instagram.ftpf1-1.fna.fbcdn.net/vp/fbe274a10d9f125721b996b1c900a38a/5BFA5B76/t51.2885-15/e35/37190638_643058652730656_5948932439748378624_n.jpg",
-        "sourceURL": "https://www.instagram.com/p/Bl09Fg3jM54/?taken-by=ambethia"
+        "title": "Cristiano Ronaldo",
+        "imageURL": "https://cdn.images.express.co.uk/img/dynamic/67/590x/Ballon-d-Or-Cristiano-Ronaldo-Juventus-Lionel-Messi-1028400.jpg?r=1539000202747",
+        "sourceURL": "https://www.express.co.uk/sport/football/1028400/Ballon-dOr-Cristiano-Ronaldo-Juventus-Lionel-Messi-Barcelona-awards-announcement"
+      },
+      {
+        "title": "Lionel Messi",
+        "imageURL": "https://cdn.images.express.co.uk/img/dynamic/67/590x/secondary/Ballon-d-Or-Cristiano-Ronaldo-Juventus-Lionel-Messi-1543642.jpg?r=1539000202983",
+        "sourceURL": "https://www.express.co.uk/sport/football/1028400/Ballon-dOr-Cristiano-Ronaldo-Juventus-Lionel-Messi-Barcelona-awards-announcement"
       }
     ]
   }

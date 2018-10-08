@@ -11,15 +11,19 @@ class App extends Component {
     return (
       <Router>
         <div className="App">
-          <header> Here's My Photo Gallery, Y'all! </header>
+          <header> Thank you for visiting this eyesore! </header>
           <nav>
             <ul>
-              <li>Home</li>
+              <li>
+                <Link to="/">Home</Link>
+              </li>
             </ul>
           </nav>
-          <CategoryList />
-          <PhotoList />
-          <PhotoDetail />
+          <Switch>
+            <Route exact path="/" component={CategoryList} />
+            <Route exact path="/:category" component={PhotoList} />
+            <Route path="/:category/:index" component={PhotoDetail} />
+          </Switch>
         </div>
       </Router>
     )
